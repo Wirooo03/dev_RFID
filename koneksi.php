@@ -3,7 +3,7 @@
     $host = "localhost";
     $port = 8181;
     $username = "root";
-    $password = "beliauinidb";
+    $password = "wiroooodb";
     $dbname = "absenrfid";
 
     // buat koneksi
