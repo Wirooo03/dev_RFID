@@ -1,10 +1,10 @@
 <?php
     // urutan = server, userdb, passdb, namadb
     $host = "localhost";
-    $port = 8181;
+    $port = 3306;
     $username = "root";
-    $password = "wiroooodb";
-    $dbname = "absenrfid";
+    $password = "";
+    $dbname = "wirooo";
 
     // buat koneksi
     $konek = mysqli_connect($host, $username, $password, $dbname, $port);
